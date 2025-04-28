@@ -1,0 +1,125 @@
+{
+  "areas": [
+    {
+      "areaName": "糖廠文化區",
+      "locations": [
+        {
+          "name": "橋頭糖廠文化園區",
+          "introduction": "橋頭糖廠舊稱「橋仔頭糖廠」，是台灣第一座現代化機械式製糖工廠，啟用於日治時期明治34年（1901年），曾引領臺灣邁入輝煌的糖金歲月，多年來為臺灣糖業創下多項指標紀錄，是日治初期引用鋼鐵建築技術的先驅，被列為直轄市定古蹟。園區內製糖廠、日式木屋、防空洞、紅磚水塔等昔日古物保存完好，台糖公司於2006年現地成立臺灣糖業博物館，保留百年前第一座糖廠廠房的部分牆面，並開放製糖工場全貌，讓遊客感受將甘蔗從運輸、壓榨、清淨、蒸發、結晶、分蜜到包裝的實體流程。",
+          "openingHours": "週二至週日 09:30-17:00",
+          "phone": "07-6111141",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"]
+        },
+        {
+          "name": "台灣糖業博物館",
+          "introduction": "位於橋頭糖廠園區內，展示台灣糖業發展歷史，收藏許多珍貴的糖業文物與相關資料。館內完整呈現製糖工業時期的重要設備與文獻，包含蒸汽火車頭、五分車、製糖機具等。遊客可透過展覽了解台灣糖業的發展歷程與對台灣經濟的重要影響。",
+          "openingHours": "週二至週日 10:00-16:30",
+          "phone": "07-6222333",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/dryer1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cake1.mp4"]
+        },
+        {
+          "name": "製糖工場",
+          "introduction": "製糖工場是橋頭糖廠最具代表性的核心建築，建於1901年，為台灣第一座現代化製糖工廠。工場內保存了完整的製糖設備，包括壓榨機、蒸發罐、真空鍋等重要機具，完整展示了從甘蔗進場到成品糖包裝的整個製糖流程。工場建築本身也是極具價值的產業遺產，紅磚建築與鋼構結構展現了日治時期的工業建築特色。",
+          "openingHours": "週二至週日 09:30-17:00",
+          "phone": "07-6111141",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/notepc1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/scene1.mp4"]
+        }
+      ]
+    },
+    {
+      "areaName": "歷史建築區",
+      "locations": [
+        {
+          "name": "廠長宿舍",
+          "introduction": "廠長宿舍建造於西元1940年，是當時的「台灣製糖株式會社」為金木善三郎廠長所建造之甲種官職宿舍。1999年廠區停閉後，則暫供員工住宿之用。其建築形式為標準的日式木造瓦頂平房，內部主要構造包括台灣檜木的屋頂構架、高架地板、木床束、灰色瓦簷、雨淋板牆面，以及外部前庭後院、日式水景，此外建築還具有台灣日式宿舍少見的獨立磚造基礎，是廠區內保存最完整也是最具代表性的日式宿舍。",
+          "openingHours": "週二至週日 09:30-16:00",
+          "phone": "07-6333444",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/fan1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cat1.mp4"]
+        },
+        {
+          "name": "日式職員宿舍",
+          "introduction": "建於1930年代的日式職員宿舍群，完整保留了日治時期製糖株式會社職員的生活場域。這些宿舍採用傳統日式建築風格，具有和式庭園、緣側走廊等特色，展現了當時的生活美學與社會地位象徵。現已修復活化為文化展示空間，讓遊客體驗昔日製糖業興盛時期的生活樣貌。",
+          "openingHours": "週二至週日 09:00-16:30",
+          "phone": "07-6111142",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/fan1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cat1.mp4"]
+        },
+        {
+          "name": "古蹟倉庫群",
+          "introduction": "這組建於1920年代的紅磚倉庫群，原用於存放製糖原料及成品。倉庫群保留了完整的工業建築特色，包括挑高的空間結構、木製桁架及通風設計。現在經過修復後轉型為文創展演空間，定期舉辦藝文活動與特展，展現新舊融合的文化魅力。",
+          "openingHours": "週二至週日 10:00-17:00",
+          "phone": "07-6111143",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/leaf1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cat2.mp4"]
+        }
+      ]
+    },
+    {
+      "areaName": "交通設施區",
+      "locations": [
+        {
+          "name": "糖廠鐵道公園",
+          "introduction": "以舊有糖廠運輸軌道為主題打造的特色公園，保留了完整的五分車軌道系統。公園內設有懷舊月台、車廂展示區，並提供觀光五分車體驗服務。園區綠意盎然，是結合歷史教育與休閒的好去處。",
+          "openingHours": "週二至週日 08:30-17:30",
+          "phone": "07-6111144",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"]
+        },
+        {
+          "name": "老火車頭展示區",
+          "introduction": "收藏多台具有歷史價值的蒸汽火車頭，包括1920年代引進的德製蒸汽機車。展示區詳細介紹每台火車頭的歷史背景、技術特點，並展示相關的鐵道文物，完整呈現糖廠運輸發展史。",
+          "openingHours": "週二至週日 09:00-17:00",
+          "phone": "07-6111145",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/dryer1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cake1.mp4"]
+        }
+      ]
+    },
+    {
+      "areaName": "休閒娛樂區",
+      "locations": [
+        {
+          "name": "糖廠文創市集",
+          "introduction": "在古老倉庫改建的文創市集，匯集了在地文創工作者的作品。市集內有手作工藝品、文創商品、特色美食等，每週末還有市集活動，展現糖廠新生命力。",
+          "openingHours": "週五至週日 11:00-20:00",
+          "phone": "07-6111146",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/notepc1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/scene1.mp4"]
+        },
+        {
+          "name": "懷舊商店街",
+          "introduction": "重現1960年代糖廠繁榮時期的商店街風貌，街道兩旁有古早味柑仔店、復古茶室、傳統點心舖等特色店家，讓遊客體驗懷舊氛圍。",
+          "openingHours": "週二至週日 10:00-18:00",
+          "phone": "07-6111147",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/fan1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cat1.mp4"]
+        },
+        {
+          "name": "糖業主題公園",
+          "introduction": "以糖業文化為主題的休閒公園，設有兒童遊戲區、糖業教育區、戶外表演場等設施。公園內種植多種甘蔗品種，並設有互動式展示設施，寓教於樂。",
+          "openingHours": "週二至週日 08:00-18:00",
+          "phone": "07-6111148",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/leaf1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cat2.mp4"]
+        }
+      ]
+    },
+    {
+      "areaName": "自然生態區",
+      "locations": [
+        {
+          "name": "蔗糖生態公園",
+          "introduction": "佔地寬廣的生態教育園區，保留了原始的甘蔗田景觀和在地生態系統。園區內規劃了生態步道、觀察區，並提供導覽服務，讓遊客了解甘蔗種植與當地生態環境的關係。園區內還設有蝴蝶園及野鳥觀察區，是進行環境教育的最佳場所。",
+          "openingHours": "週二至週日 08:00-17:00",
+          "phone": "07-6111149",
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"]
+        }
+      ]
+    }
+  ]
+} 
