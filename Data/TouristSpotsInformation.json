@@ -9,7 +9,8 @@
           "openingHours": "週二至週日 09:30-17:00",
           "phone": "07-6111141",
           "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg"],
-          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"]
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cake1.mp4"]
         },
         {
           "name": "台灣糖業博物館",
