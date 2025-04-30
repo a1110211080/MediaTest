@@ -8,9 +8,8 @@
           "introduction": "橋頭糖廠舊稱「橋仔頭糖廠」，是台灣第一座現代化機械式製糖工廠，啟用於日治時期明治34年（1901年），曾引領臺灣邁入輝煌的糖金歲月，多年來為臺灣糖業創下多項指標紀錄，是日治初期引用鋼鐵建築技術的先驅，被列為直轄市定古蹟。園區內製糖廠、日式木屋、防空洞、紅磚水塔等昔日古物保存完好，台糖公司於2006年現地成立臺灣糖業博物館，保留百年前第一座糖廠廠房的部分牆面，並開放製糖工場全貌，讓遊客感受將甘蔗從運輸、壓榨、清淨、蒸發、結晶、分蜜到包裝的實體流程。",
           "openingHours": "週二至週日 09:30-17:00",
           "phone": "07-6111141",
-          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg"],
-          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4",
-                       "https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/cake1.mp4"]
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/book1.jpg","https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/notepc1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4",""]
         },
         {
           "name": "台灣糖業博物館",
