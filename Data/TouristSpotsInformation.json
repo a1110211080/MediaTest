@@ -137,16 +137,16 @@
           "introduction": "海洋探索中心是一座結合海洋生態教育與互動展示的園區。中心內設有海洋生物展示區、水族館、觸摸池及深海探險體驗，讓遊客能深入了解海洋生態的奧秘。此區特別適合親子旅遊與生態愛好者。",
           "openingHours": "週二至週日 09:00-18:00",
           "phone": "07-6245678",
-          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/ocean1.jpg"],
-          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/ocean_exploration1.mp4"]
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/notepc1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/scene1.mp4"]
         },
         {
           "name": "海濱休憩公園",
           "introduction": "海濱休憩公園擁有寬廣的海岸步道與休閒設施，是遊客欣賞海景與享受海風的絕佳地點。公園內設有觀海平台、沙灘活動區及水上運動中心，適合進行各種海上運動與休閒活動。",
           "openingHours": "週一至週日 07:00-19:00",
           "phone": "07-6256789",
-          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/beach1.jpg"],
-          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beach_activity1.mp4"]
+          "imageUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Images/leaf1.jpg"],
+          "videoUrl": ["https://raw.githubusercontent.com/a1110211080/MediaTest/main/Videos/beef1.mp4"]
         }
       ]
     }
